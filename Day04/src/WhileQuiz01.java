@@ -13,6 +13,7 @@ public class WhileQuiz01 {
 		while(loop <= 9) {
 			System.out.println(num + " x " + loop + " = " + num * loop);
 			loop++;
+			
 		}
 		sc.close();
 	}
